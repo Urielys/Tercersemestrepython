@@ -1,6 +1,0 @@
-a = float(input("Inserta un numero "))
-b = float(input("Inserta otro numero "))
-c = float(input("Inserta otro numero "))
-d = float(input("Inserta el ultimo numero "))
-f = float((a+b+c+d)/4)
-print("El Promedio es: " + str(f))
